@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  blazorapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+
+  # nginx:
+  #   build: 
+  #     context: .
+  #     dockerfile: nginx.Dockerfile
+  #   ports:
+  #     - "80:80"
+  #   depends_on:
+  #     - blazorapp

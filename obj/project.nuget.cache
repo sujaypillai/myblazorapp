@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MeQ3AX4WJI4ucdj2dYGG4DNp9ROfmVVqUT1BD6TmKBYO1wvqGSVi4BLlTdIfoSVFfoYgBk3PM8vsBc/MAKiBfA==",
+  "success": true,
+  "projectFilePath": "/Users/sujay/dev/myblazorapp/myblazorapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/sujay/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.20/microsoft.netcore.app.runtime.linux-x64.6.0.20.nupkg.sha512",
+    "/Users/sujay/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.20/microsoft.aspnetcore.app.runtime.linux-x64.6.0.20.nupkg.sha512",
+    "/Users/sujay/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.20/microsoft.netcore.app.host.linux-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

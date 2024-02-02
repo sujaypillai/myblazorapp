@@ -1,0 +1,7 @@
+/Users/sujay/dev/myblazorapp/app/myblazorapp
+/Users/sujay/dev/myblazorapp/app/appsettings.Development.json
+/Users/sujay/dev/myblazorapp/app/appsettings.json
+/Users/sujay/dev/myblazorapp/app/myblazorapp.dll
+/Users/sujay/dev/myblazorapp/app/myblazorapp.deps.json
+/Users/sujay/dev/myblazorapp/app/myblazorapp.runtimeconfig.json
+/Users/sujay/dev/myblazorapp/app/myblazorapp.pdb
